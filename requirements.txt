@@ -1,0 +1,4 @@
+nonebot2
+aiocqhttp>=1.2
+requests
+json
